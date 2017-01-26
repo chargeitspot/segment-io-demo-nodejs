@@ -5,7 +5,7 @@ results
 tmp
 
 # ignore node modules
-node-modules
+node-modules/
 
 # Editors
 .idea
