@@ -1,0 +1,16 @@
+# ignore logs and such
+pids
+logs
+results
+tmp
+
+# ignore node modules
+node-modules
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
